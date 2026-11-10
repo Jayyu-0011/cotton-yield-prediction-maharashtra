@@ -1,0 +1,45 @@
+"Commodity-wise, Market-wise Daily Report (Weighted Average) on: 25-Oct-2022"
+
+Market Center,Arrivals,Unit of Arrivals,Variety,Minimum Price,Maximum Price,Modal Price,Unit of Price,Grade
+Commodity Group Name : Fibre Crops
+Cotton (MSP: Rs. 6080.00/Quintal)
+State/UT Name : Haryana
+Jullana APMC,4.5,Metric Tonnes,American,7500.0,8201.0,7500.0,Rs./Quintal,FAQ
+Siwani APMC,70.5,Metric Tonnes,American,8500.0,8600.0,8560.0,Rs./Quintal,FAQ
+Tosham APMC,41.0,Metric Tonnes,American,8300.0,8500.0,8400.0,Rs./Quintal,FAQ
+Uchana APMC,6.5,Metric Tonnes,American,7900.0,8250.0,8050.0,Rs./Quintal,FAQ
+Total,122.5,Metric Tonnes,,,,8440.45,Rs./Quintal,
+State/UT Name : Karnataka
+Annigeri APMC,10.0,Metric Tonnes,GCH,8100.0,9000.0,8700.0,Rs./Quintal,Medium
+Total,10.0,Metric Tonnes,,,,8700.0,Rs./Quintal,
+State/UT Name : Madhya Pradesh
+Anjad APMC,18.7,Metric Tonnes,Other,7000.0,7400.0,7200.0,Rs./Quintal,FAQ
+Kukshi APMC,5.2,Metric Tonnes,H4,7500.0,7600.0,7500.0,Rs./Quintal,FAQ
+Sendhwa APMC,40.52,Metric Tonnes,H4,7250.0,7650.0,7500.0,Rs./Quintal,FAQ
+Total,64.42,Metric Tonnes,,,,7412.92,Rs./Quintal,
+State/UT Name : Maharashtra
+APMC Varora ,1.0,Metric Tonnes,Desi,7000.0,7300.0,7200.0,Rs./Quintal,FAQ
+Total,1.0,Metric Tonnes,,,,7200.0,Rs./Quintal,
+State/UT Name : Tamil Nadu
+Kollathur RM,5.65,Metric Tonnes,Other,7000.0,7500.0,7300.0,Rs./Quintal,FAQ
+Oddanchatram RM,2.0,Metric Tonnes,Other,5600.0,8000.0,7500.0,Rs./Quintal,FAQ
+Papanasam RM,2.4,Metric Tonnes,Other,6409.0,7889.0,6968.0,Rs./Quintal,FAQ
+Theni RM,0.01,Metric Tonnes,MCU 5,6900.0,7100.0,7000.0,Rs./Quintal,FAQ
+Total,10.06,Metric Tonnes,,,,7260.26,Rs./Quintal,
+State/UT Name : Telangana
+Chityal APMC,1.0,Metric Tonnes,Bramha,5940.0,6180.0,6080.0,Rs./Quintal,FAQ
+,,Metric Tonnes,RCH-2,5940.0,6180.0,6080.0,Rs./Quintal,FAQ
+Enkoor APMC,0.01,Metric Tonnes,Cotton (Unginned),6200.0,6600.0,6250.0,Rs./Quintal,FAQ
+Gajwel APMC,1.2,Metric Tonnes,Cotton (Ginned),5500.0,7000.0,6000.0,Rs./Quintal,FAQ
+Ichoda APMC,0.01,Metric Tonnes,Bramha,7600.0,9900.0,9900.0,Rs./Quintal,FAQ
+Jammikunta APMC,0.01,Metric Tonnes,Cotton (Unginned),6380.0,6380.0,6380.0,Rs./Quintal,FAQ
+Madnoor APMC,0.01,Metric Tonnes,Bunny,8000.0,8000.0,8000.0,Rs./Quintal,FAQ
+Medipally APMC,1.0,Metric Tonnes,RCH-2,6000.0,7000.0,6500.0,Rs./Quintal,FAQ
+Nirmal APMC,0.01,Metric Tonnes,Bramha,7600.0,9900.0,9900.0,Rs./Quintal,FAQ
+Parkal APMC,0.01,Metric Tonnes,Cotton (Unginned),8000.0,9900.0,9000.0,Rs./Quintal,FAQ
+Vemulawada APMC,9.0,Metric Tonnes,Cotton (Unginned),6080.0,6380.0,6380.0,Rs./Quintal,FAQ
+Total,12.26,Metric Tonnes,,,,6337.22,Rs./Quintal,
+Grand Total,220.24,Metric Tonnes,,,,7975.06,Rs./Quintal,
+
+Note:
+Weighted Average Price = ∑(arrival quantity * modal price) / ∑arrival quantity
